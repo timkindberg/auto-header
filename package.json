@@ -1,0 +1,20 @@
+{
+  "name": "autoheader",
+  "version": "1.0.0",
+  "description": "Automatic header levels so you don't have to manually manage the 'H' level of each header on a complex page composed of many dynamic components.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.6.2",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
